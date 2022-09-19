@@ -1,7 +1,7 @@
 import React, { FC } from 'react';
 import styled from 'styled-components';
 
-import { fontSizeCalculater } from '../../helpers';
+import { fontSizeCalculater } from '../../FontSizeCalc';
 
 interface CellProps {
   x: number;
